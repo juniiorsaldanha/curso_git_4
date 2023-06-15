@@ -1,1 +1,3 @@
 Esse é o inicio do curso de git e github. 
+
+Estudando o git status. 
